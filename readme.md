@@ -1,5 +1,6 @@
-
 # Photon Pusion
+
+![Photon Pusion Logo](pusionlogo.png)
 
 **Photon Pusion** is a Unity package designed to mimic the Photon Unity Networking (PUN) syntax while utilizing Photon Fusion under the hood. It provides a seamless bridge between the familiar PUN workflow and the powerful capabilities of Photon Fusion, allowing developers to easily switch between the two.
 
